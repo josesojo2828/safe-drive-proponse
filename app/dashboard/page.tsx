@@ -1,3 +1,5 @@
+'use client';
+
 import { Car, Users, Route, Fuel } from 'lucide-react';
 import FleetList from '../components/FleetList';
 import LiveMap from '../components/LiveMap';
